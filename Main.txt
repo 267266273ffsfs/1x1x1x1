@@ -94,8 +94,8 @@ end
 -- ======================
 -- Configurações Áudio
 -- ======================
-local AUDIO_ID = 6821054463 -- ID atualizado
-local TOOL_NAME = "risada do goner"
+local AUDIO_ID = 5813114232
+local TOOL_NAME = "Risada do 1x1x1"
 
 local function PlayServerAudio(ID)
     if type(ID) ~= "number" then return end
